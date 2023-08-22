@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP and Machine Learning projects**
 
-- 👯 I’m interested in **Artificial Intelligence, Cyber Security and Web Development.**
+- 👨‍💻 I’m interested in **Artificial Intelligence, Cyber Security and Web Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
